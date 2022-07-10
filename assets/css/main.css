@@ -1,0 +1,44 @@
+.f-10 {
+    font-size: 10px;
+  }
+
+  .grey {
+    background-color: #e3e3e3;
+  }
+
+  .w-30 {
+    width: 40%;
+  }
+
+  .p-custom {
+    padding: 25%;
+  }
+
+  .Rectangle {
+    height: 50px;
+    width: 100px;
+  }
+
+  .Oval {
+    height: 50px;
+    width: 100px;
+    border-radius: 50%;
+  }
+
+  .Round {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+
+  .Triangle {
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+  }
+
+  .Square {
+    height: 50px;
+    width: 50px;
+  }
